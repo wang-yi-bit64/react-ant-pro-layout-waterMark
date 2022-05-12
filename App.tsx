@@ -1,5 +1,6 @@
 import * as React from 'react';
 import './style.css';
+import 'antd/dist/antd.css';
 import Test from './demos/test';
 
 export default function App() {
